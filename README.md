@@ -1,7 +1,14 @@
 # https_share
 https share files
-
+## Candidate MEs:
 https://github.com/computational-epigenetics-section/https_share/raw/master/chr19_bigwig.bw
+
+## Positive Bins with 20% Range
+https://github.com/computational-epigenetics-section/https_share/raw/master/chr19_all_pos_bins.bigwig.bw
+
+## All informative bins
+https://github.com/computational-epigenetics-section/https_share/raw/master/chr19_all_bins.bigwig.bw
+
 
 Copy this link to
 https://genome.ucsc.edu/cgi-bin/hgCustom
