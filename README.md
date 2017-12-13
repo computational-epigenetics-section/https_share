@@ -1,4 +1,8 @@
-# https_share
+# Visualize chr19 in UCSC browser
+
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr19%3A14609817-14699486&hgsid=647818717_tqiuvEG19A6YGvdCjui75ZPyDNUe
+
+
 https share files
 ## Candidate MEs:
 https://github.com/computational-epigenetics-section/https_share/raw/master/chr19_bigwig.bw
