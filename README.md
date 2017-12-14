@@ -22,4 +22,8 @@ MEs idendentified by Co1_Co2 data in CNTD2, GOLGA2P9 genes at
 chr19:40,222,208-40,227,095
 chr19:22,596,257-22,603,550
 
+wig file from R should be preprocessed to remove spaces and headers
+  tail -n +2 chr19_all_pos_bins.wig > chr19_all_pos_bins_1.wig
+  sed "s/^[ \t]*//" -i chr19_all_pos_bins_1.wig
 
+variableStep  chrom=chrN
