@@ -1,3 +1,13 @@
+Visualize chr5 in UCSC browser
+## positive correlated bins
+
+https://github.com/computational-epigenetics-section/https_share/raw/master/chr5_positive_corr_bins_bigwig.bw
+
+Copy this link to
+https://genome.ucsc.edu/cgi-bin/hgCustom
+
+
+
 # Visualize chr19 in UCSC browser
 
 https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr19%3A14609817-14699486&hgsid=647818717_tqiuvEG19A6YGvdCjui75ZPyDNUe
